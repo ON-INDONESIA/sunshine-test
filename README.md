@@ -2,7 +2,7 @@
 
 # Web Test Automation - SUNSHINE
 
-[![Playwright Tests](https://github.com/charlyautomatiza/starter-playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/charlyautomatiza/starter-playwright/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/ON-INDONESIA/sunshine-test/actions/workflows/playwright.yml/badge.svg)](https://github.com/ON-INDONESIA/sunshine-test/actions/workflows/playwright.yml)
 
 ### Overview
 The Sunshine Testing repository is dedicated to comprehensive end-to-end testing, leveraging the power of Playwright. Developed in TypeScript, it adopts a modular structure with a pages/ directory housing page objects and a well-organized tests/ directory for testing scenarios. 
