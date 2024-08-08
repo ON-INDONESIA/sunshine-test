@@ -1,11 +1,11 @@
 ![notion_cover](/assets/notion_cover.jpg)
 
-# Web Test Automation - ON MARKET
+# Web Test Automation - SUNSHINE
 
 [![Playwright Tests](https://github.com/charlyautomatiza/starter-playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/charlyautomatiza/starter-playwright/actions/workflows/playwright.yml)
 
 ### Overview
-The On Market Testing repository is dedicated to comprehensive end-to-end testing, leveraging the power of Playwright. Developed in TypeScript, it adopts a modular structure with a pages/ directory housing page objects and a well-organized tests/ directory for testing scenarios. 
+The Sunshine Testing repository is dedicated to comprehensive end-to-end testing, leveraging the power of Playwright. Developed in TypeScript, it adopts a modular structure with a pages/ directory housing page objects and a well-organized tests/ directory for testing scenarios. 
 
 ### General requirements
 
@@ -21,7 +21,7 @@ Download and install
 
 #### **Clone the repository:**
 
-    git clone https://github.com/fullvomitforme/onmarket-test.git
+    git clone https://github.com/ON-INDONESIA/sunshine-test.git
 
 #### **Install dependencies.**
 
