@@ -53,7 +53,7 @@ export const getEmployeeData = () => {
 		whatsappNumber: `08${faker.string.numeric(10)}`,
 		registeredAdress: faker.location.city(),
 		currentAdress: faker.location.city(),
-		maritalStatus: faker.helpers.arrayElement(['Single', 'Married']),
+		maritalStatus: faker.helpers.arrayElement(['Single', 'Maried']),
 		numberofchild: faker.number.int({ min: 0, max: 5 }).toString(),
 
 		position: 'SPV Admin',
