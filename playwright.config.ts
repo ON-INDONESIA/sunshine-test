@@ -44,7 +44,7 @@ const config: PlaywrightTestConfig = {
 		actionTimeout: 0,
 
 		/* Base URL to use in actions like `await page.goto('/')`. */
-		baseURL: 'https://test.onmarket.id',
+		baseURL: 'https://demosunshine.onindonesia.id',
 
 		/* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
 		trace: 'on-first-retry',
